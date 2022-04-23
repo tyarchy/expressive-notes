@@ -24,9 +24,5 @@ console.log(req.body.id)
   });
   
 
-// get route for viewing a single note
-// put route for updating a note
 
-
-// delete route,
 module.exports = app
