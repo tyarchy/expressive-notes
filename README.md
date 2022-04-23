@@ -4,6 +4,8 @@
 
 ## Description
 ### Expressive Notes is note taking program where you can make notes and amend them later if you want to.
+
+![image](https://user-images.githubusercontent.com/92496520/164845073-1ebfb9b4-e208-413d-a232-fc243a3bb238.png)
   
 ## Table of Contents
 1. [Applications](#Features)
